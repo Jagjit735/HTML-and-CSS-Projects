@@ -4,3 +4,4 @@
   alert {"Hello, World!"},
 </scripits>
 </html>
+<scripts src="Basic_JavaScript_1.js"></scripts>
