@@ -18,3 +18,7 @@
    <font> color=:"Purple" face= "Roboto" size= "2"
 </font>
 </P>
+
+<b> : makes the text bold
+<i> : italicizes text
+<u> : underlines text
