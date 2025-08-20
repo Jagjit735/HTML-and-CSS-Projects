@@ -8,3 +8,13 @@
 
 <font> color="pink"> favourite color</font>
 <font color= "#0000FF">my color</font>
+
+<P>
+  <font> color="Black" face="Calibri">
+  </font>
+</P>
+
+<P>
+   <font> color=:"Purple" face= "Roboto" size= "2"
+</font>
+</P>
