@@ -5,3 +5,6 @@
 </scripits>
 </html>
 <scripts src="Basic_JavaScript_1.js"></scripts>
+
+<font> color="pink"> favourite color</font>
+<font color= "#0000FF">my color</font>
