@@ -1,1 +1,29 @@
+>P<
+   <img> src="https://wallpapercave.com/wp/wp4069456.jpg">
 
+<form> action=""method="get">
+     First name: <input type= "text" name= "First_name"><br>
+     Last name:<input type="" name= "Last_name"><br>
+     <input> type="submit" value="submit">
+</form>
+
+<iframe> src= "https://youtu.be/bMMBM6g7oTw"
+        width= "591"
+        height= "360"
+        frameborder= "0"
+       allowfullscreen>
+</iframe>
+
+<nav>
+  a href="home page file name or URL">Home</a> 
+  a href="about page file name or URL">About</a>
+  a href="FAQs page file name or URL">FAQs</a>
+  a href= "contact page file name or URL">CONTACT</a>
+</nav>
+
+  <footer>
+</body>
+</html>
+
+
+    
